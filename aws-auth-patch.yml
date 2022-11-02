@@ -1,3 +1,6 @@
+# This is a sample aws-auth-patch.yml file.
+# Actual aws-auth-patch.yml will be created at /System/Volumes/Data/private/tmp/aws-auth-patch.yml path.
+
 apiVersion: v1
 data:
   mapRoles: |
@@ -15,5 +18,5 @@ metadata:
   creationTimestamp: "2022-11-02T10:29:23Z"
   name: aws-auth
   namespace: kube-system
-  resourceVersion: "1585"
+  resourceVersion: "5452"
   uid: 0366996b-8a4d-4cae-b647-07c5cd11233a
