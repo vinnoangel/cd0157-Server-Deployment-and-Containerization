@@ -24,9 +24,6 @@ htmlcov/
 .coverage.*
 *,cover
 
-#git token
-#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
-
 # Direnv
 .envrc
 .direnv
